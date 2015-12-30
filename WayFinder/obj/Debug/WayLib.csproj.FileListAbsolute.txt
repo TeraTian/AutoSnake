@@ -1,0 +1,5 @@
+C:\Code\AutoSnake\WayFinder\bin\Debug\WayFinder.dll
+C:\Code\AutoSnake\WayFinder\bin\Debug\WayFinder.pdb
+C:\Code\AutoSnake\WayFinder\obj\Debug\WayFinder.dll
+C:\Code\AutoSnake\WayFinder\obj\Debug\WayFinder.pdb
+C:\Code\AutoSnake\WayFinder\obj\Debug\WayLib.csprojResolveAssemblyReference.cache

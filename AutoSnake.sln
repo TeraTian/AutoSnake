@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSnake", "AutoSnake\AutoSnake.csproj", "{FE1B5998-B862-47CF-AEC5-2117C181D2AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WayLib", "WayFinder\WayLib.csproj", "{F82BE9A1-6764-4F40-A3DA-C66160FEBBD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReallyAutoSnake", "ReallyAutoSnake\ReallyAutoSnake.csproj", "{A6D9A698-3BE6-4AC2-8A41-64D398A47D41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE1B5998-B862-47CF-AEC5-2117C181D2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1B5998-B862-47CF-AEC5-2117C181D2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1B5998-B862-47CF-AEC5-2117C181D2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1B5998-B862-47CF-AEC5-2117C181D2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82BE9A1-6764-4F40-A3DA-C66160FEBBD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82BE9A1-6764-4F40-A3DA-C66160FEBBD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82BE9A1-6764-4F40-A3DA-C66160FEBBD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82BE9A1-6764-4F40-A3DA-C66160FEBBD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D9A698-3BE6-4AC2-8A41-64D398A47D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D9A698-3BE6-4AC2-8A41-64D398A47D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D9A698-3BE6-4AC2-8A41-64D398A47D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D9A698-3BE6-4AC2-8A41-64D398A47D41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Code\AutoSnake\ReallyAutoSnake\bin\Debug\ReallyAutoSnake.exe.config
+C:\Code\AutoSnake\ReallyAutoSnake\bin\Debug\ReallyAutoSnake.exe
+C:\Code\AutoSnake\ReallyAutoSnake\bin\Debug\ReallyAutoSnake.pdb
+C:\Code\AutoSnake\ReallyAutoSnake\bin\Debug\WayFinder.dll
+C:\Code\AutoSnake\ReallyAutoSnake\bin\Debug\WayFinder.pdb
+C:\Code\AutoSnake\ReallyAutoSnake\obj\Debug\ReallyAutoSnake.csprojResolveAssemblyReference.cache
+C:\Code\AutoSnake\ReallyAutoSnake\obj\Debug\ReallyAutoSnake.Form1.resources
+C:\Code\AutoSnake\ReallyAutoSnake\obj\Debug\ReallyAutoSnake.Properties.Resources.resources
+C:\Code\AutoSnake\ReallyAutoSnake\obj\Debug\ReallyAutoSnake.csproj.GenerateResource.Cache
+C:\Code\AutoSnake\ReallyAutoSnake\obj\Debug\ReallyAutoSnake.exe
+C:\Code\AutoSnake\ReallyAutoSnake\obj\Debug\ReallyAutoSnake.pdb
